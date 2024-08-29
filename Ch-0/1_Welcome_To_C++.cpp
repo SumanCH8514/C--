@@ -8,7 +8,7 @@ int main()
     char n[10];
     cin >> n;
     cout << "..............................." << endl;
-    cout << "Welcome " << n;
+    cout << "Welcome To C++ " << n;
 
     return 0;
 }
